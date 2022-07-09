@@ -1,0 +1,51 @@
+
+/* Navigation  Styles */
+.inline-block {
+    display: inline-block;
+    vertical-align: top; 
+}
+.logo {
+    width: 23%;
+    padding: 1%;
+    text-align: center;
+}
+
+img[src="/Images/Logo1.png"] {
+    width: 50%;
+    height: 170px;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+}
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+/* Hero  Styles */
+.heroImg {
+    height: 800px;
+    padding: 25px;
+}
+content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+img[src="/Images/Lizette.JPG"] {
+    width: 35%;
+    height: 600px;
+
+}
+
+/* Footer  Styles */
+footer {
+    background-color: #ad69ae;
+    padding: 25px;
+}
+.ul {
+    display: inline-block;
+    vertical-align: top;
+    padding: 25px; 
+}
