@@ -10,7 +10,7 @@
     text-align: center;
 }
 
-img[src="/Images/Logo1.png"] {
+img[src="Images/Logo1.png"] {
     width: 50%;
     height: 170px;
 }
@@ -33,7 +33,7 @@ content {
     margin: 0 auto;
 }
 
-img[src="/Images/Lizette.JPG"] {
+img[src="Images/Lizette.JPG"] {
     width: 35%;
     height: 600px;
 
@@ -47,5 +47,5 @@ footer {
 .ul {
     display: inline-block;
     vertical-align: top;
-    padding: 25px; 
+    padding: 25px;
 }
