@@ -96,7 +96,7 @@ h2 {
     
 }
 
-img[src="/Images/Pal.JPG"] {
+img[src="Images/Pal.JPG"] {
     width: 300%;
     height: 490px;
 }
@@ -123,7 +123,7 @@ img[src="/Images/Pal.JPG"] {
     
 }
 
-img[src="/Images/DALA.JPG"] {
+img[src="Images/DALA.JPG"] {
     width: 300%;
     height: 492px;
     
@@ -185,19 +185,19 @@ footer {
 
 }
 
-img[src="/Images/Instagram.png"] {
+img[src="Images/Instagram.png"] {
     width: 5%;
     padding: 10px;
 
 }
 
-img[src="/Images/Linkedin.png"] {
+img[src="Images/Linkedin.png"] {
     width: 5%;
     padding: 10px;
 
 }
 
-img[src="/Images/Gmail.png"]{
+img[src="Images/Gmail.png"]{
     width: 5%;
     padding: 10px;
 }
