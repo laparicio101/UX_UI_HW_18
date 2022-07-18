@@ -202,5 +202,61 @@ img[src="/Images/Gmail.png"]{
     padding: 10px;
 }
 
+/* Media Queries  Styles */
+
+@media only screen and (max-width: 600px){
+        .workgrid {
+            display: grid;
+            grid-template-columns:16.7% 16.7% 16.7% 16.7% 16.7% 16.7%;
+            grid-template-rows: 20% 20%           20% 20% 20%;
+            row-gap: 50px;
+            grid-template-areas: "palimage" "palcontent" "dalaimage" "dalacontent";}
+      
+    .dalacontent {
+        grid-area: dalacontent;
+        grid-column-start: 1;
+        grid-column-end: 6;
+        grid-row-start: 4;
+        grid-row-end: 5;
+        background: rgba(181,161, 141,.7);
+        padding-left: 23px;
+        height: 215px;
+        width: 545px;
+        }
+      
+    h4 {
+        font-size: 25px;}
+    p3 {
+          font-size: 20px;}
+      
+    .palcontent {
+        grid-area: palcontent;
+        grid-column-start: 1;
+        grid-column-end: 6;
+        grid-row: 2;
+        grid-row-end: 3;
+        background: rgba(181,161, 141,.7);
+        padding-left: 23px;
+        height: 200px;
+        width:545px;}
+    h3 {
+        font-size: 25px;
+        
+    }
+    
+    p2 {
+        font-size: 20px;
+    
+    }  
+      
+    button {
+        margin-left: 3px;
+        font-size: 15px;
+    }
+      
+}
+
+    
+
 
 
